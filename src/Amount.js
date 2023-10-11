@@ -9,7 +9,8 @@ const style = {
     height:"40",
     alignItems:"center",
     border: "2px solid green",
-    marginTop:"15px"
+    marginTop:"15px",
+    padding:"10px"
   }
 }
 
